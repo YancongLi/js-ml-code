@@ -8,9 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.7.2",
-    "@tensorflow/tfjs-node": "^1.5.2",
-    "@tensorflow/tfjs-vis": "^1.4.0"
+    "@tensorflow/tfjs": "^1.7.4",
+    "@tensorflow/tfjs-node": "^1.7.4",
+    "@tensorflow/tfjs-vis": "^1.4.3"
   },
   "browserslist": [
     "last 1 Chrome version"
